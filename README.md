@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evaklq
 - 👀 I’m interested in Humor and like to laugh
-- 🌱 I’m currently learning IOS and C#
+- 🌱 I’m currently learning Swift and C# developing
 - 📫 How to reach me telegram: @evaklq
 
 <!---
